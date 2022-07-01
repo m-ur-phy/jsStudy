@@ -309,4 +309,4 @@ for (let key in user) {
 <img width="318" alt="3" src="https://user-images.githubusercontent.com/87026989/176913321-aa2a3735-1381-451f-8c0c-eaca696b169b.png">
 
 - 심볼로 추가한 메소드는 숨겨지고, 다른 사람의 코드를 침범하지도 않는다.
-- 심볼을 사용하는 이유가 바로 이 때문이다.
+- 심볼을 사용하는 이유가 바로 이 때문이다!
